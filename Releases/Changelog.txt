@@ -1,0 +1,6 @@
+Maps-v0.2
+google play dependency added.
+location setting turn on request
+
+Maps-v0.1
+initial build
